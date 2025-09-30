@@ -1,7 +1,7 @@
 // Test program for SavingsAccount class
 
 #include <iostream>
-#include "ShriyanshKesharwani_Sept25_task1_SavingsAccount.cpp"
+#include "ShriyanshKesharwani_Sept25_task1_SavingsAccount.h"
 int main() {
     // Create two saver objects with initial balances
     SavingsAccount saver1(2000.0);
